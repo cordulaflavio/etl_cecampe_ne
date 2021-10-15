@@ -1,5 +1,5 @@
 --Arquivos ideges2018ref2017_formatado.csv, ideges2019ref2018_formatado.csv, 
---ideges2020ref2019_formatado.csv, ideges2021ref2020_formatado.csv e ideges2021ref2020_formatado.csv 
+--ideges2020ref2019_formatado.csv e ideges2021ref2020_formatado.csv
 --Fonte: CECAMPE-NE
 --Data: out/21
 --OBS: 
