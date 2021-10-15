@@ -5,5 +5,5 @@ Este espaço é reservado para o compartilhamento de Jupyter Notebooks, para as 
 
 - [Site Oficial do Projeto](https://www.cecampe.ufpb.br/)
 - [Olinda PDDE](https://www.fnde.gov.br/olinda-ide/servico/PDDE_PRJ_914BRZ1071/versao/v1/aplicacao#!/)
-- Fonte dos arquivos csv formatados
-- Fonte dos dicionários de dados
+- Fonte de arquivos csv
+- Fonte de dicionários de dados
